@@ -1,0 +1,12 @@
+div.search a {
+	width: 100%;
+}
+div.loading{
+	display: none;
+}
+.tweets{
+
+}
+.card .card-action a{
+	color: #26a69a;
+}

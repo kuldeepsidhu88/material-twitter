@@ -11,7 +11,7 @@ function search(){
 			if(result){
 				var statuses = 	result.statuses;
 				for (var i = 0; i < statuses.length;i++) {
-					var tweetHtml = '<div class="col s10 offset-s1">'+
+					var tweetHtml = '<div class="col s12 m8 offset-m2">'+
 						'<div class="card blue-grey darken-1">'+
 							'<div class="card-content black-text">'+
 								'<span class="card-title black-text">'+statuses[i].name+
